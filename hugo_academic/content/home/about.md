@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Computer Vision",
+    "Medical Image",
     "Meta Learning",
     "Reinforcement Learning"
   ]
