@@ -179,6 +179,16 @@
     
     <url>
     
+      <loc>/</loc>
+      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/</loc>
       <lastmod>2017-12-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -201,16 +211,6 @@
     
       <loc>/tags/re-id/</loc>
       <lastmod>2018-01-04T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2017-12-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
