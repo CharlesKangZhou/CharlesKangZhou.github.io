@@ -10,10 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Medical Image Analysis",
     "Computer Vision",
-    "Medical Image",
-    "Meta Learning",
-    "Reinforcement Learning"
+    "Deep Learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -24,20 +23,24 @@ weight = 5
 
 [[education.courses]]
   course = "BSc in E.E"
-  institution = "Beihang University"
+  institution = "Northwestern Polytechnical University"
   year = 2013
  
 +++
 
 # Biography
 
-I am currently a postgraduate student of computer science at ShangtaiTech [VENUS](http://sist.shanghaitech.edu.cn/faculty/hexm/) Group. My research interests include video segmentation, one/few-shot learning and reinforcement learning. 
+I am currently a postgraduate student of computer science at ShangtaiTech
+[SVIP Lab](https://svip-lab.github.io/) Group. My research interests include medical image analysis, GAN, anomaly detection.
 
-My surpervisor is Prof. [Xuming He](https://xmhe.bitbucket.io/) at ShanghaiTech. I got my BS degree from Beihang University, 2017 under the supervision of Prof. [Mai Xu](http://shi.buaa.edu.cn/MaiXu/zh_CN/index.htm). My resume can be found [here](https://www.syzhang.me/cv_syzhang.pdf).
+My surpervisor is Prof. [Shenghua Gao](http://sist.shanghaitech.edu.cn/2018/0502/c2739a24311/page.htm) at ShanghaiTech.
+I got my BS degree from Northwestern Polytechnical University in 2017. My English resume can be found [here(en)]
+(https://www.syzhang.me/cv_syzhang.pdf), and the Chinese version can be found [here(cn)](https://www.syzhang.me/cv_syzhang.pdf).
 
 ## Experience
 
-- Jan. 2017 - Jun. 2017, Intern at [TuSimple, Inc](http://www.tusimple.ai). Algorithm Research Group. 
-    - Work with Dr. [Naiyan Wang](http://www.winsty.net/). 
-    - Focus on video object detection and segmentation.
+- Jul. 2017 - Sept. 2017, Jan. 2018 - Feb. 2018, Jul. 2018 - Sept. 2018.
+    - Intern at [iMED China](http://imed.nimte.ac.cn/).
+    - Work with Dr. [Jun Cheng](http://imed.nimte.ac.cn/view-10870.html) and [Jiang Liu](http://imed.nimte.ac.cn/view-9458.html)
+    - Focus on retinal image analysis.
 

@@ -39,7 +39,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Songyang Zhang"
+  name = "Kang Zhou"
   role = "Postgraduate Student of Computer Science"
 
   # Organizations/Affiliations.
@@ -47,11 +47,11 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "ShanghaiTech University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "songyang.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "sy.zhangbuaa@gmail.com"
+  avatar = "zhoukang.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "zhoukang@shanghaitech.edu.cn"
   address = "393 Middle Huaxia Road, ShanghaiTech University,Pudong, Shanghai, 201210, China"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+86 13070165319"
+  # phone = "+86 13070165319"
   # skype = "syzhang"
   telegram = ""
 
