@@ -48,11 +48,10 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "zhoukang.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "zhoukang@shanghaitech.edu.cn"
+  email = "zhoukang@@shanghaitech.edu.cn"
   address = "393 Middle Huaxia Road, ShanghaiTech University,Pudong, Shanghai, 201210, China"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  # phone = "+86 13070165319"
-  # skype = "syzhang"
+  # phone = "+86 "
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -205,7 +204,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:zhoukang@shanghaitech.edu.cn"
+    link = "mailto:zhoukang@@shanghaitech.edu.cn"
 
   [[params.social]]
     icon = "quora"
@@ -231,20 +230,20 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+# [[menu.main]]
+#  name = "Publications"
+#  url = "#publications_selected"
+#  weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+# [[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+# [[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 # [[menu.main]]
 #  name = "Teaching"
@@ -257,10 +256,10 @@ defaultContentLanguageInSubdir = false
   weight = 6
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+# [taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.

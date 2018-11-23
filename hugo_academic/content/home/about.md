@@ -33,7 +33,7 @@ weight = 5
 I am currently a postgraduate student of computer science at ShangtaiTech
 [SVIP Lab](https://svip-lab.github.io/) Group. My research interests include medical image analysis, GAN, anomaly detection.
 
-My surpervisor is Prof. [Shenghua Gao](http://sist.shanghaitech.edu.cn/2018/0502/c2739a24311/page.htm) at ShanghaiTech.
+My advisor is Prof. [Shenghua Gao](http://sist.shanghaitech.edu.cn/2018/0502/c2739a24311/page.htm) at ShanghaiTech.
 I got my BS degree from Northwestern Polytechnical University in 2017. My English resume can be found [here(en)]
 (https://www.zhoukang.pro/cv_zhoukang_en.pdf), and the Chinese version can be found
  [here(cn)](https://www.zhoukang.pro/cv_zhoukang_cn.pdf).
