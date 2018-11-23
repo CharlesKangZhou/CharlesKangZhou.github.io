@@ -6,9 +6,27 @@
     <description>Recent content in TBDs on Kang Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Songyang Zhang</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018 Kang Zhou</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0800</lastBuildDate>
     <atom:link href="/tbd/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/tbd/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/tbd/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/tbd/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/tbd/publications/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
@@ -16,6 +34,24 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/tbd/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/tbd/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tbd/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/tbd/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tbd/projects/</guid>
       <description></description>
     </item>
     
@@ -29,6 +65,33 @@
 
 &lt;p&gt;To remove this section, either delete &lt;code&gt;content/home/teaching.md&lt;/code&gt; or edit the frontmatter of the file to deactivate the widget by setting &lt;code&gt;active = false&lt;/code&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/tbd/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/tbd/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Feature Flow(Cityscapes)</title>
+      <link>/tbd/project/dffseg/</link>
+      <pubDate>Tue, 26 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tbd/project/dffseg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capsule Network On Gluon</title>
+      <link>/tbd/project/capsulegluon/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tbd/project/capsulegluon/</guid>
+      <description></description>
     </item>
     
   </channel>
