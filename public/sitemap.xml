@@ -5,7 +5,43 @@
     
     <url>
     
+      <loc>/tbd/publications_selected/</loc>
+      <lastmod>2016-04-20T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tbd/publications/</loc>
+      <lastmod>2016-04-20T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tbd/talks/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tbd/posts/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tbd/projects/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +59,16 @@
     
     <url>
     
-      <loc>/publication/fewshot_eccv2018/</loc>
+      <loc>/tbd/tags/</loc>
+      <lastmod>2017-09-20T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tbd/publication/embc2018/</loc>
       <lastmod>2018-11-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +77,16 @@
     
     <url>
     
-      <loc>/post/segmentationsurvey/</loc>
+      <loc>/tbd/publication/fewshot_eccv2018/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tbd/post/segmentationsurvey/</loc>
       <lastmod>2018-05-20T00:00:00+08:00</lastmod>
     </url>
     
@@ -41,7 +95,7 @@
     
     <url>
     
-      <loc>/post/surveysegmentation/</loc>
+      <loc>/tbd/post/surveysegmentation/</loc>
       <lastmod>2018-05-10T00:00:00+08:00</lastmod>
     </url>
     
@@ -50,7 +104,7 @@
     
     <url>
     
-      <loc>/post/multishotreid/</loc>
+      <loc>/tbd/post/multishotreid/</loc>
       <lastmod>2018-01-04T00:00:00+08:00</lastmod>
     </url>
     
@@ -59,7 +113,7 @@
     
     <url>
     
-      <loc>/project/dffseg/</loc>
+      <loc>/tbd/project/dffseg/</loc>
       <lastmod>2017-12-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +122,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>/tbd/post/</loc>
       <lastmod>2017-11-22T00:00:00+08:00</lastmod>
     </url>
     
@@ -77,7 +131,7 @@
     
     <url>
     
-      <loc>/project/capsulegluon/</loc>
+      <loc>/tbd/project/capsulegluon/</loc>
       <lastmod>2017-11-12T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +140,7 @@
     
     <url>
     
-      <loc>/post/icml2017/</loc>
+      <loc>/tbd/post/icml2017/</loc>
       <lastmod>2017-12-21T00:00:00+08:00</lastmod>
     </url>
     
@@ -95,7 +149,7 @@
     
     <url>
     
-      <loc>/publication/gtn/</loc>
+      <loc>/tbd/publication/gtn/</loc>
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +158,7 @@
     
     <url>
     
-      <loc>/publication/salientface/</loc>
+      <loc>/tbd/publication/salientface/</loc>
       <lastmod>2017-05-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,7 +167,7 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>/tbd/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -122,7 +176,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>/tbd/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -160,6 +214,16 @@
     
     <url>
     
+      <loc>/tags/academic/</loc>
+      <lastmod>2018-05-20T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -181,16 +245,6 @@
     
       <loc>/</loc>
       <lastmod>2017-12-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2017-12-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -230,7 +284,16 @@
     <url>
     
       <loc>/tbd/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <lastmod>2016-04-20T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tbd/tags/</loc>
       <priority>0</priority>
     </url>
     
@@ -240,7 +303,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-05-20T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
